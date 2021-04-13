@@ -1,0 +1,8 @@
+body{
+background-color:purple;}
+.container{
+display:flex;flex-direction:row;background-color:#112233;padding-left:20px;}
+div{margin:20px;}
+p{background-color:blue;border-radius:8px;padding:10px;}
+.side{background-color:lightblue;}
+main{width:75%;}
